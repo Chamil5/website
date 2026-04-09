@@ -1,11 +1,35 @@
 ---
-title: "website"
+title: "Cades Website"
 ---
 
-This is a Quarto website.
+**My Bio:**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello all, my name is Cade Hamil and I grew up in Paris, Tx on a Cow-Calf/Stocker operation. I did my undergraduate degree at East Texas A&M majoring in Animal Science and upon completion of that degree I decided to continue my education at Oklahoma State University studying Nutrition under Dr. Paul Beck. My research will be looking at differing roughage levels in feedlot diets.
 
-```{r}
-1 + 1
-```
+**Research Interest:**
+
+I am fascinated by all facets of the Beef Cattle Industry, so I would be proud to work on any research oppertunity in any of the sectors.
+
+-   Feedlot cattle
+
+    -   Growth and Overall Performance
+
+    -   Methane Production as a measure of efficiency
+
+    -   Carcass Charactertistics
+
+-   Stocker Cattle
+
+    -   Wheat Pasture Research
+
+    -   Techniques to improve growth
+
+-   Cow-Calf
+
+    -   Calf Immunity
+
+    -   Mother's immune system heritablitly
+
+I have attached my CV below:
+
+[My CV](CV/Cade Hamil CV - Copy.pdf)
